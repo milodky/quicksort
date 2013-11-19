@@ -1,0 +1,3 @@
+v1: my own quick sort
+
+waiting for v2: the Pivot is put aside, and the other two parts are strictly larger or less than Pivot
